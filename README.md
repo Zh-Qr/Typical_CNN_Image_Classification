@@ -10,10 +10,10 @@
 - 进行优缺点分析、未来展望
 
 ## 文件介绍
-- **项目主要介绍文件：**项目1-CNN分类器代码实现_验证.ipynb
-- **torch框架训练文件：**project1_pytorch_train.ipynb
-- **模型测试文件：**project1_validation_model.ipynb
-- **模型训练文件（可在mo平台GPU加速训练）：**project1_pytorch_train.py
+- 项目主要介绍文件：项目1-CNN分类器代码实现_验证.ipynb
+- torch框架训练文件：project1_pytorch_train.ipynb
+- 模型测试文件：project1_validation_model.ipynb
+- 模型训练文件（可在mo平台GPU加速训练）：project1_pytorch_train.py
 ---
 以下文件均有GPU设备运算过程中保存的文件
-- **训练过程可视化文件：**process_picture
+- 训练过程可视化文件：process_picture
