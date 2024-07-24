@@ -1,4 +1,4 @@
-# Zh-Qr-Typical_CNN_Image_Classification  
+# Typical_CNN_Image_Classification  
 ## CNN分类器代码实现
 - 简要介绍CNN卷积神经网络的发展历史
 - 使用临时文件目录，以FashionMNIST数据集为训练、测试数据集
