@@ -2,10 +2,9 @@ keras
 numpy
 tensorflow
 torch
-matplotlib.pyplot as plt
+matplotlib
 torchvision
-isklearn
-tempfile
+scikit-learn
 sys
 time
 os
